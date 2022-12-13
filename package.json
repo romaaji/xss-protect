@@ -2,7 +2,7 @@
   "name": "jsxss.com",
   "private": true,
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "express-liquid": "^0.2.6",
     "marked": "^0.3.19",
     "mkdirp": "^0.5.5",
